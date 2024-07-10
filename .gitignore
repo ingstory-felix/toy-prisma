@@ -1,0 +1,26 @@
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.swp
+
+# 컴파일된 파일
+*.class
+*.pyc
+
+# 의존성 디렉토리
+/node_modules
+/vendor
+/coverage
+
+# IDE 관련 파일
+.idea/
+.vscode/
+
+# 환경 설정 파일
+.env
